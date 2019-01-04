@@ -4,7 +4,7 @@ Beer Recommendation Engine made in Python - originally made to be embedded withi
 
 ### Overview ###
 
-Loading data from beer reviewing websites, use of NLP and ML to create an engine which can recommend beers to users based on other beers they enjoy. 
+Loading data from beer reviewing websites, use of NLP and ML to create an app which recommends beers to users based on other beers they enjoy. 
 
 ### Python Packages used ###
 

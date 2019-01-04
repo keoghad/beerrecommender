@@ -1,6 +1,6 @@
 # README #
 
-Beer Recommendation Engine made in Python - originally made to be embedded within a [Squirro] (https://squirro.com/) Dashboard
+Beer Recommendation Engine made in Python - originally made to be embedded within a [Squirro](https://squirro.com/) Dashboard
 
 ### Overview ###
 

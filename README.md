@@ -5,9 +5,9 @@ Beer Recommendation Engine made in Python - originally made to be embedded withi
 ### Overview ###
 
 Loading data from beer reviewing websites, use of NLP and ML to create an app which recommends beers to users based on other beers they enjoy. 
-(e.g. if you like Corona you might like Pacifico, if you like Coors Light you might like Water) 
+(e.g. if you like Corona you might like Pacifico, if you like Coors Light you might like water) 
 
-### Python Packages used ###
+### Python Packages ###
 
 * Webscraping using BeautifulSoup
 * Natural Language Processing using NLTK
